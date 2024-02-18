@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "telefono": "123-456-7890",
+    "sexo": "masculino",
+    "profesion": "Ingeniero de Software",
+    "departamento": "Desarrollo"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria Gonzalez",
+    "telefono": "987-654-3210",
+    "sexo": "femenino",
+    "profesion": "Contadora",
+    "departamento": "Finanzas"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Ramirez",
+    "telefono": "456-789-0123",
+    "sexo": "masculino",
+    "profesion": "Diseñador Gráfico",
+    "departamento": "Diseño"
+  },
+  {
+    "id": 4,
+    "nombre": "Laura Martinez",
+    "telefono": "789-012-3456",
+    "sexo": "femenino",
+    "profesion": "Abogada",
+    "departamento": "Legal"
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro Lopez",
+    "telefono": "321-654-0987",
+    "sexo": "masculino",
+    "profesion": "Médico",
+    "departamento": "Salud"
+  },
+  {
+    "id": 6,
+    "nombre": "Ana Suarez",
+    "telefono": "654-987-0123",
+    "sexo": "femenino",
+    "profesion": "Ingeniera Civil",
+    "departamento": "Ingeniería"
+  },
+  {
+    "id": 7,
+    "nombre": "Jose Rodriguez",
+    "telefono": "234-567-8901",
+    "sexo": "masculino",
+    "profesion": "Profesor",
+    "departamento": "Educación"
+  },
+  {
+    "id": 8,
+    "nombre": "Sofia Diaz",
+    "telefono": "567-890-1234",
+    "sexo": "femenino",
+    "profesion": "Psicóloga",
+    "departamento": "Salud"
+  },
+  {
+    "id": 9,
+    "nombre": "Daniel Gomez",
+    "telefono": "890-123-4567",
+    "sexo": "masculino",
+    "profesion": "Administrador de Empresas",
+    "departamento": "Administración"
+  },
+  {
+    "id": 10,
+    "nombre": "Carolina Castro",
+    "telefono": "432-109-8765",
+    "sexo": "femenino",
+    "profesion": "Arquitecta",
+    "departamento": "Arquitectura"
+  }
+]

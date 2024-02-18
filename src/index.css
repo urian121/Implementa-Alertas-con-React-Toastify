@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #1e2b38 !important;
+  color: rgba(255, 255, 255, 0.87);
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.container {
+  background-color: #fff !important;
+  border-radius: 5px !important;
+  padding: 1.5rem;
+}
+h1 {
+  color: #1e2b38 !important;
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+.fade-out {
+  transition: opacity 0.3s ease-out;
+  opacity: 1;
+}
+
+.fade-out.hidden {
+  opacity: 0;
+}
