@@ -4,6 +4,12 @@
 
 #### Instalar npm install react-toastify para generar las alertas
 
+
+#### instalar la libreria react-toastify para crear las alertas.
+    
+    npm install --save react-toastify
+    
+
 #### Documentación oficial
 
     https://fkhadra.github.io/react-toastify/introduction
