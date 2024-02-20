@@ -1,4 +1,4 @@
-# Implementar alertas con la libreria React-toastify en Reactjs
+# Cómo utilizar la Librería React Toastify en tu proyecto de React js
 
 ##### React Toastify para mejorar la experiencia de usuario mediante notificaciones dinámicas y altamente personalizables. Integrando fácilmente alertas, el sistema proporciona una forma eficiente de comunicar información importante en la aplicación, mejorando la interactividad y la usabilidad del usuario.
 
